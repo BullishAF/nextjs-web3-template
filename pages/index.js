@@ -11,11 +11,11 @@ const Index = () => {
     <main className={classes.main}>
       <div>
         <Typography variant="h3">
-          Web3 starter template
+          Dex
         </Typography>
         <Typography variant="h6">
-          Next.js + Material UI + dark mode + web3 starter template. Boilerplate to get starter quickly.
-        </Typography>
+Bullish-AF
+    </Typography>
       </div>
       <Link href="/about">
         <a className={classes.text}>About</a>

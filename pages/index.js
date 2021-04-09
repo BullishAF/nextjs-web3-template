@@ -10,11 +10,11 @@ const Index = () => {
   return (
     <main className={classes.main}>
       <div>
-        <Typography variant="h3">
-          Dex
+        <Typography variant="h2">
+          Bullish-AF LaunchPad
         </Typography>
-        <Typography variant="h6">
-Bullish-AF
+        <Typography variant="h5">
+     DeFi Tokens pre-sale launchpad
     </Typography>
       </div>
       <Link href="/about">
